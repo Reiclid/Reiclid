@@ -13,7 +13,7 @@ Full-stack developer from Ukraine, finishing a Software Engineering degree at Zh
 
 | Project | What it is | Stack |
 |---|---|---|
-| OnniMart (private, thesis) | Price monitoring across 14 grocery chains in Ukraine and Germany, with cross-store product matching | Rust, NestJS, Prisma, PostgreSQL, Redis, Meilisearch, Next.js |
+| [OnniMart](https://github.com/Reiclid/OnniMart) | Thesis project: price monitoring across 14 grocery chains in Ukraine and Germany, with cross-store product matching | Rust, NestJS, Prisma, PostgreSQL, Redis, Meilisearch, Next.js |
 | [PicoView](https://github.com/Reiclid/PicoView) | Portable Windows 11 media viewer: one ~1.1 MB exe, 24 MP JPEG decoded in 25 ms | C++17, Direct3D 11, Direct2D |
 | [Family Archive](https://github.com/Reiclid/family) | Private photo archive with Google Drive sync and photo versions | Next.js, Firebase, Google Drive API |
 
