@@ -1,23 +1,25 @@
-# Hey there! <img src="https://api.iconify.design/lucide:sparkle.svg?color=%23f6c177" width="30" valign="middle" />
+# Denys Hrushevytskyi
 
-I'm **Denys**, a Software Engineering student based in **Ukraine**.
+Full-stack developer from Ukraine, finishing a Software Engineering degree at Zhytomyr Polytechnic. I build web apps, data pipelines and fast desktop tools, and I care about software that holds up after the demo.
 
-I love building digital experiences—whether it's a sleek web application or a 3D environment. If I can imagine it, I want to code it (or model it).
+**What I work with**
 
-My main focus right now is **Full Stack Web Development** and **Game Dev**.
-I enjoy building with **React, Next.js, and TypeScript** for the web, and using **C#** or **Python** for backend logic.
+- **Web:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** NestJS, Node.js, PostgreSQL, Prisma, Redis, Meilisearch
+- **Data:** web scraping in Rust, queues, product matching
+- **Desktop:** C++17, Win32, Direct2D, Direct3D 11, Electron, Tauri
 
-<img src="https://api.iconify.design/lucide:rocket.svg?color=%23e05f65" width="20" valign="middle" /> **I am a fast learner and always open to mastering new programming languages, frameworks, or technical directions.**
+**Selected work**
 
-When I'm not coding, you can find me in **Blender**, turning vertices into models for my future games.
+| Project | What it is | Stack |
+|---|---|---|
+| OnniMart (private, thesis) | Price monitoring across 14 grocery chains in Ukraine and Germany, with cross-store product matching | Rust, NestJS, Prisma, PostgreSQL, Redis, Meilisearch, Next.js |
+| [PicoView](https://github.com/Reiclid/PicoView) | Portable Windows 11 media viewer: one ~1.1 MB exe, 24 MP JPEG decoded in 25 ms | C++17, Direct3D 11, Direct2D |
+| [Family Archive](https://github.com/Reiclid/family) | Private photo archive with Google Drive sync and photo versions | Next.js, Firebase, Google Drive API |
+| [Planit](https://github.com/Reiclid/Planit) | Canvas drawing editor with pen, eraser, selection, zoom and pan | Next.js, React Konva, Zustand |
+| [InterStellar](https://github.com/Reiclid/InterStellar) | Experimental encrypted messenger prototype | Tauri, React, Web Crypto |
 
-I'm currently updating my portfolio and working on new projects. Check out my repositories to see what I'm up to!
-
-### Fun Facts:
-* <img src="https://api.iconify.design/lucide:palette.svg?color=%23f6c177" width="20" valign="middle" /> I love **3D modeling** and game design.
-* <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%239ccfd8" width="20" valign="middle" /> Big fan of **Minecraft** (especially terraforming with Axiom/WorldEdit).
-* <img src="https://api.iconify.design/lucide:tv.svg?color=%23c4a7e7" width="20" valign="middle" /> **Inside Job** & **Rick and Morty** are my favorite animated series.
-* <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23ebbcba" width="20" valign="middle" /> Studying at **Zhytomyr Polytechnic State University**.
+Open to freelance work.
 
 ---
 <div align="center">
